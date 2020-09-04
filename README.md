@@ -1,6 +1,6 @@
 ### Hi there 🙋🏾‍♂️
 
-I'm Samuel (*but you can call me **Samuca***).</br>
+My name is **Samuel** (*but you can call me **Samuca***).</br>
 I'm a software engineer at [iFood](https://www.ifood.com.br) in Recife, PE 🏖 .
 
 - 🔭 I’m currently working on things that involve [Flutter](https://flutter.dev) and its ecosystem.
