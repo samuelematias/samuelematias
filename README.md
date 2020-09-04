@@ -9,7 +9,7 @@ I'm a software engineer at [iFood](https://www.ifood.com.br) in Recife, PE 🏖 
 - 👨🏾‍🏫 I try to help with my knowledge and my experience, so that I can help people not to go through the same problems that I did.
 - 💬 Ask me about [Flutter](https://flutter.dev), [React Native](https://reactnative.dev), or better, *how can I help you?*.
 - 📫 How to reach me: [Twitter](https://twitter.com/samuelematias) / [LinkedIn](https://www.linkedin.com/in/samuelematias/).
-- 😄 Pronouns: [he/him/his](http://pronoun.is/he)
+- 😄 Pronouns: [he/him/his](http://pronoun.is/he).
 - ⚡ Fun fact: When I turn on the camera flashlight, I pronounce the word *"Lumos"* and when I turn off the camera flashlight, I pronounce the word *"Nox"* ***#HP***.
 
 <!--
