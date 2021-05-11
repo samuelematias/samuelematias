@@ -1,6 +1,6 @@
 ### Hey, I'm Samuca! 🙋🏾‍♂️
 
-- 👨🏾‍💻 Software Engineer at [iFood](https://www.ifood.com.br)
+- 👨🏾‍💻 Software Engineer at [Nubank](https://nubank.com.br)
 - 🇧🇷 Live in Recife, Brazil
 - 🚀 Currently learning and building apps with [Flutter](https://flutter.dev)
 - 📫 You can find me on [Twitter](https://twitter.com/samuelematias) / [LinkedIn](https://www.linkedin.com/in/samuelematias/)
