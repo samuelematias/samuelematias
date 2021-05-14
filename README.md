@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Hi there 🙋🏾‍♂️
 
 My name is **Samuel** (*but you can call me **Samuca***).</br>
-I'm a software engineer at [iFood](https://www.ifood.com.br) in Recife, PE 🏖 .
+I'm a software engineer at [Nubank](https://nubank.com.br) in Recife, PE 🏖 .
 
 - 🔭 I’m currently working on things that involve [Flutter](https://flutter.dev) and its ecosystem.
 - 🌱 I’m currently learning about [Flutter](https://flutter.dev) and its ecosystem, how can I share my knowledge in a more accessible way (*e.g. for disabled person*) and how can I have a healthier and more balanced life.
