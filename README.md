@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻 Software Engineer at [Nubank](https://nubank.com.br)
 - 🇧🇷 Live in Recife, Brazil
-- 🚀 Currently learning and building apps with [Flutter](https://flutter.dev)
+- 🚀 Currently learning and building mobile apps with [Flutter](https://flutter.dev), [React Native](https://reactnative.dev/), [Swift](https://developer.apple.com/swift/) and [Kotlin](https://developer.android.com/kotlin/)
 - 📫 You can find me on [Twitter](https://twitter.com/samuelematias) / [LinkedIn](https://www.linkedin.com/in/samuelematias/)
 
 <!--
