@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻 Software Engineer at [Nubank](https://nubank.com.br)
 - 🇧🇷 Live in Recife, Brazil
-- 🚀 Currently (always!) learning and building mobile apps with [Flutter](https://flutter.dev), [React Native](https://reactnative.dev/), [Swift](https://developer.apple.com/swift/), [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Kotlin](https://developer.android.com/kotlin/)
+- 🚀 Currently (always!) learning and building mobile apps with [Flutter](https://flutter.dev), [React Native](https://reactnative.dev/), [Swift](https://developer.apple.com/swift/), [SwiftUI](https://developer.apple.com/xcode/swiftui/), [Kotlin](https://developer.android.com/kotlin/) and [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - 📫 You can find me on [Twitter](https://twitter.com/samuelematias) / [LinkedIn](https://www.linkedin.com/in/samuelematias/)
 
 <!--
