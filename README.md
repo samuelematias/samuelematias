@@ -12,7 +12,7 @@ It's a pleasure to have you visiting my GitHub, **I hope you like it!**
 To follow my work, **follow @samuelematias on social medias**.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/samuelematias?style=social)](https://twitter.com/samuelematias)
-[![GitHub followers](https://img.shields.io/github/followers/samuelematias?label=Follow&style=social)](https://github.com/samuelematias/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/samuelematias?label=Follow&style=social)](https://github.com/samuelematias/?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/samuelematias/)](https://www.linkedin.com/in/samuelematias/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@samuelematias.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:contact@samuelematias.com)](mailto:contact@samuelematias.com)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@samuelematias)](https://medium.com/@samuelematias)
