@@ -1,35 +1,19 @@
-### Hey, I'm Samuca! 🙋🏾‍♂️
+Hello 🙋🏾‍♂️!
+</br>
+I'm Samuel Matias, but **you can call me Samuca**.
+</br>
+I'm a **Mobile | UI Engineer**, based in **Brazil 🇧🇷**, with experience in **Design system**, **Server Driven UI** and technologies like **Flutter**, **React Native**, **Swift**, **SwiftUI**, **iOS**, **Kotlin**, **Jetpack Compose**, and **Android**.
+</br>
+It's a pleasure to have you visiting my GitHub, I hope you like it!
+</br>
+</br>
+To follow my work, **follow @samuelematias on social medias**.
 
-- 👨🏾‍💻 Software Engineer at [Nubank](https://nubank.com.br)
-- 🇧🇷 Live in Recife, Brazil
-- 🚀 Currently (always!) learning and building mobile apps with [Flutter](https://flutter.dev), [React Native](https://reactnative.dev/), [Swift](https://developer.apple.com/swift/), [SwiftUI](https://developer.apple.com/xcode/swiftui/), [Kotlin](https://developer.android.com/kotlin/) and [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- 📫 You can find me on [Twitter](https://twitter.com/samuelematias) / [LinkedIn](https://www.linkedin.com/in/samuelematias/)
-
-<!--
-**samuelematias/samuelematias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Hi there 🙋🏾‍♂️
-
-My name is **Samuel** (*but you can call me **Samuca***).</br>
-I'm a software engineer at [Nubank](https://nubank.com.br) in Recife, PE 🏖 .
-
-- 🔭 I’m currently working on things that involve [Flutter](https://flutter.dev) and its ecosystem.
-- 🌱 I’m currently learning about [Flutter](https://flutter.dev) and its ecosystem, how can I share my knowledge in a more accessible way (*e.g. for disabled person*) and how can I have a healthier and more balanced life.
-- 👯 I’m looking to collaborate on open source projects and points that help to have more diversity in the IT area and in our lives.
-- 👨🏾‍🏫 I try to help with my knowledge and my experience, so that I can help people not to go through the same problems that I did.
-- 💬 Ask me about [Flutter](https://flutter.dev), [React Native](https://reactnative.dev), or better, [*how can I help you?*](mailto:hi@samuelematias.com?subject=[GitHub]%20Hi%20Samuca!).
-- 📫 How to reach me: [Twitter](https://twitter.com/samuelematias) / [LinkedIn](https://www.linkedin.com/in/samuelematias/).
-- 😄 Pronouns: [he/him/his](http://pronoun.is/he).
-- ⚡ Fun fact: When I turn on the camera flashlight, I pronounce the word *"Lumos"* and when I turn off the camera flashlight, I pronounce the word *"Nox"* ***#HP***.
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/samuelematias?style=social)](https://twitter.com/samuelematias)
+[![GitHub followers](https://img.shields.io/github/followers/samuelematias?label=Follow&style=social)](https://github.com/samuelematias/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-contact@samuelematias.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:contact@samuelematias.com)](mailto:contact@samuelematias.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/samuelematias/)](https://www.linkedin.com/in/samuelematias/)
+[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@samuelematias)](https://medium.com/@samuelematias)
+[![CV Resume](https://img.shields.io/badge/-Resume-c14438?style=social&logo=dropbox&logoColor=black&link=https://www.samuelematias.com/resume)](https://www.samuelematias.com/resume)
+[![Portifolio](https://img.shields.io/badge/-Portifolio-c14438?label=◮&link=https://www.samuelematias.com/&style=social)](https://www.samuelematias.com/)
+[![Bradindump Blog](https://img.shields.io/badge/-Blog-c14438?label=✍&link=https://braindump.samuelematias.com/about/&style=social)](https://braindump.samuelematias.com/about/)
