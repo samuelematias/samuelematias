@@ -1,10 +1,10 @@
 Hello 🙋🏾‍♂️!
 </br>
-I'm Samuel Matias, but **you can call me Samuca**.
+**I'm Samuel Matias**, but **you can call me Samuca**.
 </br>
 I'm a **Mobile | UI Engineer**, based in **Brazil 🇧🇷**, with **3+ years of experience in remote work and with advanced English**.
 </br>
-I have experience in **Design system**, **Server Driven UI** and technologies like **Flutter**, **React Native**, **iOS**, **UIKit**, **Swift**, **SwiftUI**, **Android**, **Kotlin**, **Jetpack Compose**, and more.
+I have **experience** in **Design system**, **Server Driven UI** and technologies like **Flutter**, **React Native**, **iOS**, **UIKit**, **Swift**, **SwiftUI**, **Android**, **Kotlin**, **Jetpack Compose**, and **more**.
 </br>
 It's a pleasure to have you visiting my GitHub, **I hope you like it!**
 </br>
