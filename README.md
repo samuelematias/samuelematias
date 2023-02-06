@@ -18,4 +18,4 @@ To follow my work, **follow @samuelematias on social medias**.
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@samuelematias)](https://medium.com/@samuelematias)
 [![CV Resume](https://img.shields.io/badge/-Resume-c14438?style=social&logo=dropbox&logoColor=black&link=https://www.samuelematias.com/resume)](https://www.samuelematias.com/resume)
 [![Portifolio](https://img.shields.io/badge/-Portifolio-c14438?label=◮&link=https://www.samuelematias.com/&style=social)](https://www.samuelematias.com/)
-[![Bradindump Blog](https://img.shields.io/badge/-Blog-c14438?label=✍&link=https://braindump.samuelematias.com/about/&style=social)](https://braindump.samuelematias.com/about/)
+[![Bradindump Blog](https://img.shields.io/badge/-Blog-c14438?label=✍&link=https://braindump.samuelematias.com/&style=social)](https://braindump.samuelematias.com/about/)
